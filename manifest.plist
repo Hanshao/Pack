@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.youyuwo.sugar</string>
 				<key>bundle-version</key>
-				<string>1.7.5</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>有鱼会刷卡</string>
+				<string>Sugar</string>
 			</dict>
 		</dict>
 	</array>
